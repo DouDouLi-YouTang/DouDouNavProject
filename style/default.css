@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box !important;
+    font-family: 'Misans', "Arial", "Microsoft YaHei", "⿊体", "宋体", sans-serif;
+}
+
+
+
+[v-cloak] {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+    color: initial;
+}
+
+html {
+    height: 100vh !important;
+}
+
+body {
+    height: 100vh !important;
+}
